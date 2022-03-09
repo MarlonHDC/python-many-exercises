@@ -40,6 +40,7 @@ Até finalizar
 #### 4. While e números primos em Pyton;
 #### 5. Listas e Tuplas em Python;
 #### 6. Conjuntos em Python;
+#### 7. Continua... :)
 
 
 
